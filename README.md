@@ -12,7 +12,7 @@ How to run:
 1) Create a folder and place all files inside it.
 2) Create & activate a virtual env (recommended):
    python -m venv venv
-   # Windows:
+ Windows:
    venv\\Scripts\\activate
 
 3) Install dependencies:
