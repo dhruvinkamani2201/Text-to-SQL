@@ -1,0 +1,6 @@
+flask
+pandas
+openpyxl
+scikit-learn
+sqlparse
+openai
